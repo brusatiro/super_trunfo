@@ -4,7 +4,7 @@
 <p>Jogo Super Trunfo proposto pela Alura na Imersão Dev..</p>
  
 <h2>🎯 Objetivo</h2>
-<p>O objetivo era fazer um jogo de super trunfo com JavaScript, basta sortear uma carta, escolher o atributo do personagem que tenha mais pontuação e clicar em "jogar", o computador sorteará outra carta e você verá se ganhou ou perdeu.</p>
+<p>O objetivo era fazer um jogo de super trunfo com JavaScript, basta sortear uma carta. Escolher o atributo do personagem de Friends que tenha mais pontuação e clicar em "jogar", o computador sorteará outra carta e você verá se ganhou ou perdeu.</p>
 
 <h2>💻 Tecnologias</h2>
 <ul>
